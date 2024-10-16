@@ -4,8 +4,8 @@ Welcome to my SQL Projects repository! This collection showcases various SQL que
 
 Projects Included
 
-	1.	[Project Name]: Brief description of the project and its purpose.
-	2.	[Project Name]: Brief description of the project and its purpose.
+	1.	Household_Income: Exploratory data processing.
+	2.	Bakery: Create the DB and Tables.
 
 Getting Started
 
